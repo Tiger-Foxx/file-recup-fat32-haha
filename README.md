@@ -1,6 +1,8 @@
 
 # 🛠️ Fox32 File Recovery 
 
+
+
 Un outil robuste pour récupérer des fichiers supprimés par erreur sur un disque formaté en FAT32.  
 Oui, même ce fichier `.c` que tu pensais avoir perdu à jamais après un `rm` trop violent un soir de fatigue.
 
@@ -145,5 +147,3 @@ MIT License – Fais ce que tu veux avec, mais n’oublie pas de mentionner le d
 
 
 ---
-
-Dis-moi si tu veux que je te génère aussi un logo ASCII, un badge style GitHub ou un script de compilation automatique en bonus 😏
